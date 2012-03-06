@@ -30,6 +30,13 @@ h3 {
   text-shadow: 2px 2px 1px #fff;
 }
 
+h3 span {
+  color: #aaa;
+  font-size: 12px;
+  font-weight: normal;
+  padding-left: 2px;
+}
+
 p {
   padding-top: 12px;
 }

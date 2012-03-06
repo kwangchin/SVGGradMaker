@@ -83,14 +83,14 @@
       <div class="panel">
         <h2>CSS Export</h2>
         <div class="export">
-          <input type="text" id="export" readonly="readonly" value="background-image: url('data:image/svg+xml;base64,<?php echo base64_encode('<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1 1" preserveAspectRatio="none"><linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="0%" y2="100%"><stop stop-color="#049cdb" offset="0"/><stop stop-color="#ffffff" offset="1" /></linearGradient><rect x="0" y="0" width="1" height="1" fill="url(#grad)" /></svg>'); ?>)';" />
+          <input type="text" id="export" readonly="readonly" value="background-image: url('data:image/svg+xml;base64,<?php echo base64_encode('<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1 1" preserveAspectRatio="none"><linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="0%" y2="100%"><stop stop-color="#049cdb" offset="0"/><stop stop-color="#ffffff" offset="1" /></linearGradient><rect x="0" y="0" width="1" height="1" fill="url(#grad)" /></svg>'); ?>'); background-size: 100% 100%;" />
         </div>
         <p class="note"><span>Note:</span> Select the textbox, <span>Copy</span> and <span>Paste</span> into your CSS class.</p>
       </div>
     </div>
     <div class="panel">
       <h2>Changelog</h2>
-      <h3>Version 1.0</h3>
+      <h3>Version 1.0 <span>(5 March 2012)</span></h3>
       <ul>
         <li>First release</li>
       </ul>

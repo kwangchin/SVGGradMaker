@@ -43,7 +43,7 @@ function generateCss() {
       $('#preview').addClass('focus');
       $('#export').addClass('focus');
       $('#preview').attr('src', 'data:image/svg+xml;base64,' + data);
-      $('#export').val('background-image: url(\'data:image/svg+xml;base64,' + data + '\');');
+      $('#export').val('background-image: url(\'data:image/svg+xml;base64,' + data + '\'); background-size: 100% 100%;');
       setTimeout('$(\'#preview\').removeClass(\'focus\');', '500');
       setTimeout('$(\'#export\').removeClass(\'focus\');', '500');
     }
