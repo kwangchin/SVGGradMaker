@@ -129,8 +129,8 @@
     <script src="assets/js/application.js"></script>
     <script type="text/javascript">
       var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-29244439-1']);
-      _gaq.push(['_setDomainName', 'kcblog.net']);
+      _gaq.push(['_setAccount', 'UA-29244439-2']);
+      _gaq.push(['_setDomainName', 'svggradmaker.kcblog.net']);
       _gaq.push(['_trackPageview']);
       
       (function() {
